@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
-  <artifactId>SampleTestPrj</artifactId>
+  <artifactId>sampletestcryptoapi</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>SampleTestPrj-1</name>
+  <name>sampletestcryptoapi</name>
   <description>SampleTestPrj</description>
   <dependencies>
     <dependency>
