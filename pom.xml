@@ -45,6 +45,12 @@
       <version>1.4.15</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.jbpm.contrib</groupId>
+      <artifactId>execute-sql-workitem</artifactId>
+      <version>7.52.0.Final</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
